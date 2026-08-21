@@ -1,88 +1,597 @@
-%PDF-1.4
-%���� ReportLab Generated PDF document (opensource)
-1 0 obj
-<<
-/F1 2 0 R /F2 3 0 R /F3 5 0 R
->>
-endobj
-2 0 obj
-<<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
->>
-endobj
-3 0 obj
-<<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
->>
-endobj
-4 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://www.linkedin.com/in/anjali-602161266)
->> /Border [ 0 0 0 ] /Rect [ 377.5472 773.8098 537.4036 785.0898 ] /Subtype /Link /Type /Annot
->>
-endobj
-5 0 obj
-<<
-/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
->>
-endobj
-6 0 obj
-<<
-/Annots [ 4 0 R ] /Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 9 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 
-  /Trans <<
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Anjali Thakur — SOC Analyst | Cybersecurity Portfolio</title>
+<meta name="description" content="Cybersecurity portfolio of Anjali Thakur — aspiring SOC Analyst focused on security monitoring, vulnerability assessment and defensive security." />
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%9B%A1%EF%B8%8F%3C/text%3E%3C/svg%3E" />
+<style>
+  :root{
+    --bg:#f7f9fc;
+    --bg2:#edf1f7;
+    --panel:#ffffff;
+    --panel2:#f1f5f9;
+    --border:#e6ebf2;
+    --border2:#d3dce8;
+    --heading:#0b1526;
+    --text:#0f1b2d;
+    --muted:#5b6b83;
+    --accent:#4f46e5;      /* indigo — primary */
+    --accent-dark:#4338ca;
+    --accent-2:#0d9488;    /* teal — secondary */
+    --accent-2-dark:#0f766e;
+    --mono:ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace;
+    --sans:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;
+  }
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  body{
+    background:var(--bg);
+    color:var(--text);
+    font-family:var(--sans);
+    line-height:1.6;
+    overflow-x:hidden;
+  }
+  /* subtle grid + glow */
+  body::before{
+    content:"";position:fixed;inset:0;z-index:0;pointer-events:none;
+    background-image:
+      linear-gradient(rgba(79,70,229,.045) 1px,transparent 1px),
+      linear-gradient(90deg,rgba(79,70,229,.045) 1px,transparent 1px);
+    background-size:42px 42px;
+  }
+  body::after{
+    content:"";position:fixed;top:-260px;left:50%;transform:translateX(-50%);
+    width:1000px;height:620px;z-index:0;pointer-events:none;
+    background:radial-gradient(closest-side,rgba(79,70,229,.10),transparent 70%);
+  }
+  a{color:var(--accent);text-decoration:none;}
+  a:hover{text-decoration:underline;}
 
->> /Type /Page
->>
-endobj
-7 0 obj
-<<
-/PageMode /UseNone /Pages 9 0 R /Type /Catalog
->>
-endobj
-8 0 obj
-<<
-/Author (Anjali) /CreationDate (D:20260821101015+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260821101015+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (Anjali - Cybersecurity Resume) /Trapped /False
->>
-endobj
-9 0 obj
-<<
-/Count 1 /Kids [ 6 0 R ] /Type /Pages
->>
-endobj
-10 0 obj
-<<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 2744
->>
-stream
-Gb!#]fll@G&q-seLo3Gd%$o9Noe\FXh7*L788_MRnV\q2aKi6L8Z"VJ5COeTMoB9G2kDh5=9^3!Da`H<\=&MRK7@J&dgH..*&t]t5utd(J?2<\3$T8"TDnafgbJVaDY:]=)>M7*m42E3!HMUS=&hiX.0dl)eA\*^[&38SJG^:T+5m'L>P]B'.%f+5aT/Y_8=aY%Mn&8BeEM*;C(IbVRhP>lB`7j,!N!\r.P_7/i4M4lm,EG+%P;I:D2j;3gh3+#"dE:HVH*f*3@!D#3FtWW9I7.kMck>8H9>(5ODk])C[><ZP"-^mY4&f-RY<u]LGfRY3HY?*^=HZe"lQ"9[+7*/[A1g3Z#e[=Ys(l`mUO6t9"4]$A`-HnntKOT;/qkciZEr[?EYZIL6#k?6U'S$L?H+`1BXO2AAp7&E7Gsl&1g22bX93EH*FZ9eEa,L&ZlQCE[4\ff+b@dpPZl3*qXA`6g$O5'5R6rG'7,tDu.*'Q%R(8PG*%R)c!PZT)%Di1`=N=Mr@3/\*\``Ns?>rEde,c!UoRAMt`C9RYn8cp2u/"\.f*f0cjV_IL;-.CHB)<6l<f\oG-`In^s:YhoM9M#Vc6mK`Gaiirdm<PBD'A.2:eEco]<i;`F2u&,&3I7Sf6?(ZVf8BVl3mf5:7]Sbj,NF$c2aAT.76*sbMqQSFpm_ihS%bY8DFOj2h$L#`e`"Z1m]'Z=-H(t]lUTgt49\-CoTL4h6!0&aOp7I]J\#PqM#li(rEcmBuGl9@Y+YpA??\R?Agel\;W$Tg15b@.]N0p&#IP[k3iV]`4'm3/PUp;i!s<+G3u.#A]gfOu;gpP"TF?Y:!V\cMK'bOR#R\#MH@.&:RqiO7\oo0^CM#CIR5GE[\*8Uq$"YU0n=`j&<&/.PNZR=USJW>PLO-7=acR/Lj=7E/f@1R\sK\-u8+dK6aoYQEaAluUo&8I1kLjoGLQP<GQ6j9ZjcWFLXbs.#kr1"]a$nck#",/$`<_o0Mj:R;:2T`==gf]P9agMf!TRqC8+;*QN6N)%Xm(4K0uh*A+mR\]/AW#a(rB\?sE`t^\M#ljI;aUPWNd&p[OmOMG%E/lH01i*GXes#/*_/E<nhM;,KMq'OJP-Y#[MV*]Jie?M(m]!(ZT$k<AQuJ:W.lNQ_"N`jjl3UTuU2!pW`pH`X"8EU:dSG^L;O)i^_#+!Y7StHMJBI0955u[s;\ig;%g!fX?bkZ#+`f'b[1E3-3F*eTmTYSt$g3+6Y0SWubdOaWH0dQRhmELF^N;h\5$g+c^E]@/^!WqcZ<1Mhk616?+XVmRN5Q=Oo,qWj6.u^5OuB*earYqnXJ1O.J)(4?X%V.Q--5$!F>+XD-N-6Z]S`M5PjgpE=>RZ%H$r](q4]:Kf%[bA'tM`BL8+G2Lr$+crrk1k6q,dkPer3X.lU\$GkVB]mPF99O;R^!DO7N4:jd#6\o-Gh*imADj+dcj]kj-VLSY!7Y<hVB)F5N\?:9\:V=[@WJe'/1bW--sM@gP%FNuHhMAFR3+`nF(h332?9o<C?."",+D\@VM*dJY'KMO6Lm`WIY_HedbWa)\>=,^T6^oc+U4B-Xq:t&,[?FdR8F''TOj:'4AV._m]'(Uqn(#jDq7r)FDnmuiqd%a/bNkLEoWI/RR%GScL'd.CIXp9BQ62Bc9hT%'0Xf!7Y%7etlY(j$H)VQF1Yclkc;s4/O:2R9lm!F]j#?Q335.hpKbuAG(kfk)GbCqo@Z@3M51QQ0<Otuq=q).'_W'I`BhTUcY.a#Qu7f#uF-f(6$O!3IZJ1RZW]2hW[Ss9t6&T.d41he)-VYBAR8LI-;Y:o"2niV4h#^\%+c)Uk_ao\`jk8Z'sE^,UN&@:SWCeA/kIE$V$iQsFAn:B)o9VdW?Zq0mgE2P5K*r'Y_St^&bOAdm[NH;Puk_`!OoAGY#?.-CJXkZG-%Lp6+"4#m%mK6(u-d&/[G_SkQnI8E[$IY2*E&"a[3K"WOn"!s)%p1@FB.pZS-BF/9ldWCJVkW%,4AiCR\)r(qQV\r*b]r=Dd.J[U<nPT?Ak(_l[67#$YF(6kg4m5=V1Ldi$>I_t0=652.5X#\p5Hn9a<UN$[JHQEl2o9ci9/"$?*s(O5gQ!bJ9lbBq?J?A"(83^qWYOmDGmtT0e.;1SNW-K&C-NUb7[g_?NL6`%6_oC"L_r-'%M'@hZ[bp($1kdWJho#6-+qB8FJQEdM0/"6>\P2(`#Buj=D;KFG!h67-iQUX#O"X5j';0I?A`F)o;^9-WL[dBMD:]@uIuWTNAd@B&VL/U8fXi4`h]l^$T%Ln7L*&XkNZ^P?(]2CW?B\MN-MBMRo?jq.g9D[is<>Q=/6Y6h/I]J$:(7r/:pu).1P2OP-i^R'GBB"gtp/o-X2B,O';F[U22W&H)QDq25-Pp3N[%DYNVd@$TPL$<L0l$P[L])Wiqha`r6%P]E27,&t-,i7*CI1V=^ie\d,K^mS?Ca`):N!5n$OgXBje$1_c)3kcoS85<;C?])TL!\=C,K!Y#JC9GVNS>M*$.=K'j]fp/F*2hRBMCHg\3-FtdBl>)?]_Z5@dF=pKjq5<:dZle[qpkB1PL0t^=m0DK^k<e>QQ:WW<K:+3mp1],3%Gn2:'TUGr.$NmUF"f+9c8B=n(1#cTR>ct\?VI"YIgLdoH3:O+(b&<crI:)X?.@RU+#]i+E#(uo&N4)0ZS'B99*;+)g2qUa3)1BYSZKMQRiKZil^E@-UB?Y\jq[fpCenjeu1b9d-Jo*"Xncp07[`G&c~>endstream
-endobj
-xref
-0 11
-0000000000 65535 f 
-0000000061 00000 n 
-0000000112 00000 n 
-0000000219 00000 n 
-0000000331 00000 n 
-0000000527 00000 n 
-0000000642 00000 n 
-0000000864 00000 n 
-0000000932 00000 n 
-0000001221 00000 n 
-0000001280 00000 n 
-trailer
-<<
-/ID 
-[<e61318c39223fb615b416d4199f8e7cc><e61318c39223fb615b416d4199f8e7cc>]
-% ReportLab generated PDF document -- digest (opensource)
+  /* ---------- NAV ---------- */
+  nav{
+    position:fixed;top:0;left:0;right:0;z-index:50;
+    backdrop-filter:blur(12px);
+    background:rgba(255,255,255,.86);
+    border-bottom:1px solid var(--border);
+  }
+  .nav-inner{
+    max-width:1100px;margin:0 auto;padding:14px 24px;
+    display:flex;align-items:center;justify-content:space-between;
+  }
+  .logo{font-family:var(--mono);font-weight:700;font-size:1.05rem;color:var(--heading);}
+  .logo .prompt{color:var(--accent-2);}
+  .logo .cursor{color:var(--accent);animation:blink 1s steps(1) infinite;}
+  @keyframes blink{50%{opacity:0;}}
+  .nav-links{display:flex;gap:26px;align-items:center;}
+  .nav-links a{
+    font-family:var(--mono);font-size:.85rem;color:var(--muted);text-decoration:none;
+  }
+  .nav-links a:hover{color:var(--accent);}
+  .btn{
+    font-family:var(--mono);font-size:.85rem;font-weight:600;
+    border:1px solid var(--accent);color:var(--accent);
+    padding:8px 16px;border-radius:6px;text-decoration:none;
+    display:inline-flex;align-items:center;gap:8px;
+    transition:.18s ease;background:transparent;
+  }
+  .btn:hover{background:rgba(79,70,229,.08);box-shadow:0 0 18px rgba(79,70,229,.22);text-decoration:none;}
+  .btn.solid{background:var(--accent);color:#fff;}
+  .btn.solid:hover{background:var(--accent-dark);}
+  .hamburger{display:none;background:none;border:1px solid var(--border2);border-radius:6px;color:var(--heading);padding:8px 12px;font-size:1.1rem;cursor:pointer;}
 
-/Info 8 0 R
-/Root 7 0 R
-/Size 11
->>
-startxref
-4116
-%%EOF
+  /* ---------- LAYOUT ---------- */
+  main{position:relative;z-index:1;}
+  section{max-width:1100px;margin:0 auto;padding:80px 24px;}
+  .section-head{margin-bottom:40px;}
+  .section-tag{font-family:var(--mono);color:var(--accent-dark);font-size:.8rem;letter-spacing:.14em;text-transform:uppercase;font-weight:600;}
+  .section-title{font-family:var(--mono);font-size:1.9rem;font-weight:700;margin-top:8px;color:var(--heading);}
+  .section-title .hash{color:var(--accent-2);}
+
+  /* ---------- HERO ---------- */
+  .hero{
+    padding-top:160px;padding-bottom:70px;
+    display:grid;grid-template-columns:1.15fr .85fr;gap:48px;align-items:center;
+  }
+  .badge{
+    display:inline-flex;align-items:center;gap:9px;font-family:var(--mono);font-size:.8rem;
+    color:var(--accent-2-dark);border:1px solid rgba(13,148,136,.35);background:#fff;
+    padding:7px 14px;border-radius:999px;margin-bottom:22px;
+  }
+  .dot{width:8px;height:8px;border-radius:50%;background:var(--accent-2);box-shadow:0 0 10px var(--accent-2);animation:pulse 2s infinite;}
+  @keyframes pulse{0%,100%{opacity:1;}50%{opacity:.35;}}
+  .hero h1{font-family:var(--mono);font-size:3rem;font-weight:800;line-height:1.08;color:var(--heading);}
+  .hero h1 .accent{
+    background:linear-gradient(90deg,var(--accent),var(--accent-2));
+    -webkit-background-clip:text;background-clip:text;color:transparent;
+  }
+  .typed-wrap{font-family:var(--mono);font-size:1.35rem;color:var(--accent-dark);margin:14px 0 8px;min-height:2rem;}
+  .typed-wrap .prefix{color:var(--muted);}
+  .hero p.lead{color:var(--muted);font-size:1.05rem;max-width:520px;margin-bottom:28px;}
+  .hero-actions{display:flex;gap:14px;flex-wrap:wrap;}
+  .quickfacts{display:flex;gap:26px;flex-wrap:wrap;margin-top:34px;}
+  .qf{font-family:var(--mono);font-size:.82rem;color:var(--muted);}
+  .qf b{display:block;color:var(--heading);font-weight:600;margin-top:2px;}
+
+  /* terminal — kept dark for the "console" look on the light page */
+  .terminal{
+    background:#0b1220;border:1px solid #1c2a40;border-radius:12px;
+    box-shadow:0 24px 60px rgba(15,27,45,.16);
+    overflow:hidden;font-family:var(--mono);font-size:.86rem;
+  }
+  .term-bar{display:flex;align-items:center;gap:8px;padding:12px 16px;background:#101b2e;border-bottom:1px solid #1c2a40;}
+  .t-dot{width:11px;height:11px;border-radius:50%;}
+  .t-dot.r{background:#ff5f56;}.t-dot.y{background:#ffbd2e;}.t-dot.g{background:#27c93f;}
+  .term-title{margin-left:8px;color:#8aa0bd;font-size:.75rem;}
+  .term-body{padding:20px 18px;line-height:1.75;white-space:pre-wrap;color:#dbe6f3;}
+  .term-body .p{color:#2dd4bf;}
+  .term-body .c{color:#94a3b8;}
+  .term-body .k{color:#7dd3fc;}
+  .term-body .s{color:#fcd34d;}
+  .blink{animation:blink 1s steps(1) infinite;}
+
+  /* ---------- CARDS / GENERIC ---------- */
+  .grid{display:grid;gap:20px;}
+  .card{
+    background:var(--panel);border:1px solid var(--border);border-radius:12px;
+    padding:26px;transition:.18s ease;
+  }
+  .card:hover{border-color:rgba(79,70,229,.4);transform:translateY(-3px);box-shadow:0 14px 34px rgba(79,70,229,.12);}
+  .card h3{font-family:var(--mono);font-size:1.05rem;color:var(--heading);margin-bottom:6px;}
+  .card .meta{font-family:var(--mono);font-size:.78rem;color:var(--accent-dark);margin-bottom:12px;}
+  .card p{color:var(--muted);font-size:.94rem;}
+
+  /* about */
+  .about-grid{display:grid;grid-template-columns:1.4fr 1fr;gap:24px;align-items:start;}
+  .about-text p{color:var(--muted);margin-bottom:16px;font-size:1rem;}
+  .about-text p strong{color:var(--text);}
+  .fact-list{display:grid;gap:12px;}
+  .fact{display:flex;align-items:center;gap:12px;background:var(--panel);border:1px solid var(--border);border-radius:10px;padding:14px 16px;font-size:.92rem;}
+  .fact .ico{color:var(--accent-2);flex-shrink:0;display:flex;}
+  .fact span{color:var(--muted);}
+  .fact b{color:var(--heading);display:block;font-weight:600;}
+
+  /* skills */
+  .skills-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;}
+  .skill-card h3{display:flex;align-items:center;gap:10px;}
+  .skill-card h3 .ico{color:var(--accent-2);}
+  .tags{display:flex;flex-wrap:wrap;gap:8px;margin-top:14px;}
+  .tag{
+    font-family:var(--mono);font-size:.76rem;color:var(--text);
+    background:var(--panel2);border:1px solid var(--border2);border-radius:6px;padding:5px 11px;
+  }
+  .tag:hover{border-color:var(--accent);color:var(--accent);}
+
+  /* experience */
+  .timeline{position:relative;padding-left:30px;}
+  .timeline::before{content:"";position:absolute;left:8px;top:6px;bottom:6px;width:2px;background:var(--border2);}
+  .tl-item{position:relative;margin-bottom:28px;}
+  .tl-item:last-child{margin-bottom:0;}
+  .tl-item::before{
+    content:"";position:absolute;left:-30px;top:6px;width:14px;height:14px;border-radius:50%;
+    background:var(--bg);border:3px solid var(--accent);
+  }
+  .tl-item .role{font-family:var(--mono);font-size:1.1rem;color:var(--heading);font-weight:700;}
+  .tl-item .org{font-family:var(--mono);color:var(--accent-dark);font-size:.85rem;}
+  .tl-item .when{font-family:var(--mono);color:var(--muted);font-size:.78rem;margin:4px 0 12px;}
+  .tl-item ul{list-style:none;display:grid;gap:8px;}
+  .tl-item li{color:var(--muted);font-size:.94rem;padding-left:22px;position:relative;}
+  .tl-item li::before{content:"▸";position:absolute;left:0;color:var(--accent-2);}
+
+  /* projects */
+  .proj-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;}
+  .proj{display:flex;flex-direction:column;}
+  .proj .top{display:flex;align-items:center;gap:10px;margin-bottom:8px;}
+  .proj .top .ico{color:var(--accent-2);}
+  .proj h3{font-family:var(--mono);color:var(--heading);font-size:.98rem;}
+  .proj .kind{font-family:var(--mono);font-size:.72rem;color:var(--muted);margin-bottom:10px;}
+  .proj p{flex:1;}
+
+  /* certs */
+  .certs{display:grid;grid-template-columns:repeat(2,1fr);gap:16px;}
+  .cert{display:flex;align-items:flex-start;gap:14px;background:var(--panel);border:1px solid var(--border);border-radius:10px;padding:18px 20px;transition:.18s ease;}
+  .cert:hover{border-color:rgba(79,70,229,.4);transform:translateY(-2px);}
+  .cert .ico{color:var(--accent-2);flex-shrink:0;margin-top:2px;}
+  .cert b{color:var(--heading);display:block;font-weight:600;font-size:.98rem;}
+  .cert .issuer{color:var(--muted);font-size:.88rem;}
+  .cert .date{font-family:var(--mono);font-size:.74rem;color:var(--accent-dark);margin-top:4px;}
+
+  /* learning / in-progress */
+  .learn-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:20px;}
+  .learn-card{display:flex;flex-direction:column;}
+  .learn-top{display:flex;align-items:flex-start;gap:14px;margin-bottom:10px;}
+  .learn-top .ico{color:var(--accent-2);font-size:1.4rem;margin-top:2px;}
+  .learn-top h3{font-family:var(--mono);color:var(--heading);font-size:1.02rem;font-weight:700;margin-bottom:2px;}
+  .learn-top .kind{font-family:var(--mono);font-size:.74rem;color:var(--accent-dark);}
+  .learn-card p{color:var(--muted);font-size:.94rem;flex:1;}
+  .progress-label{font-family:var(--mono);font-size:.68rem;letter-spacing:.12em;color:var(--muted);margin:14px 0 8px;text-transform:uppercase;}
+  .progress-track{height:8px;background:var(--panel2);border:1px solid var(--border2);border-radius:999px;overflow:hidden;}
+  .progress-fill{height:100%;width:100%;border-radius:999px;
+    background:repeating-linear-gradient(45deg,var(--accent) 0 10px,var(--accent-2) 10px 20px);
+    background-size:28px 100%;animation:stripes 1.2s linear infinite;}
+  @keyframes stripes{from{background-position:0 0;}to{background-position:28px 0;}}
+  .learn-link{display:inline-flex;align-items:center;gap:6px;margin-top:14px;font-family:var(--mono);font-size:.84rem;}
+  .status{font-family:var(--mono);font-size:.66rem;font-weight:700;letter-spacing:.08em;padding:3px 10px;border-radius:999px;border:1px solid rgba(79,70,229,.35);color:var(--accent-dark);background:rgba(79,70,229,.08);}
+
+  /* contact */
+  .contact-grid{display:grid;grid-template-columns:1fr 1fr;gap:24px;}
+  .contact-card{display:flex;gap:14px;align-items:flex-start;background:var(--panel);border:1px solid var(--border);border-radius:12px;padding:22px;}
+  .contact-card:hover{border-color:rgba(79,70,229,.4);}
+  .contact-card .ico{color:var(--accent-2);flex-shrink:0;margin-top:2px;}
+  .contact-card .label{font-family:var(--mono);font-size:.74rem;color:var(--muted);text-transform:uppercase;letter-spacing:.1em;}
+  .contact-card .value{color:var(--heading);font-weight:600;font-size:1.02rem;word-break:break-all;}
+  .contact-card .value a{color:var(--heading);text-decoration:none;}
+  .contact-card .value a:hover{color:var(--accent);}
+  .cta-panel{grid-column:1/-1;text-align:center;padding:44px 24px;border:1px dashed var(--border2);border-radius:14px;background:var(--panel);}
+  .cta-panel h3{font-family:var(--mono);color:var(--heading);font-size:1.35rem;margin-bottom:10px;}
+  .cta-panel p{color:var(--muted);margin-bottom:22px;}
+
+  footer{border-top:1px solid var(--border);padding:28px 24px;text-align:center;color:var(--muted);font-family:var(--mono);font-size:.8rem;position:relative;z-index:1;}
+  footer .green{color:var(--accent-2-dark);}
+
+  /* reveal animation */
+  .reveal{opacity:0;transform:translateY(18px);transition:opacity .6s ease,transform .6s ease;}
+  .reveal.visible{opacity:1;transform:none;}
+
+  /* responsive */
+  @media(max-width:900px){
+    .hero{grid-template-columns:1fr;padding-top:130px;}
+    .skills-grid,.proj-grid{grid-template-columns:1fr 1fr;}
+    .about-grid,.contact-grid{grid-template-columns:1fr;}
+  }
+  @media(max-width:640px){
+    .nav-links{
+      position:fixed;top:60px;right:16px;flex-direction:column;align-items:flex-start;
+      background:var(--panel);border:1px solid var(--border2);border-radius:12px;
+      padding:18px 20px;gap:16px;display:none;
+    }
+    .nav-links.open{display:flex;}
+    .hamburger{display:block;}
+    .skills-grid,.proj-grid,.certs,.learn-grid{grid-template-columns:1fr;}
+    .hero h1{font-size:2.2rem;}
+    section{padding:60px 20px;}
+  }
+</style>
+</head>
+<body>
+
+<nav>
+  <div class="nav-inner">
+    <div class="logo"><span class="prompt">$</span> anjali_thakur<span class="cursor">▌</span></div>
+    <button class="hamburger" id="navToggle" aria-label="Menu">☰</button>
+    <div class="nav-links" id="navMenu">
+      <a href="#about">about</a>
+      <a href="#skills">skills</a>
+      <a href="#experience">experience</a>
+      <a href="#projects">projects</a>
+      <a href="#learning">learning</a>
+      <a href="#certifications">certifications</a>
+      <a href="#contact">contact</a>
+      <a class="btn" href="resume.pdf" download>Resume ↓</a>
+    </div>
+  </div>
+</nav>
+
+<main>
+
+  <!-- HERO -->
+  <section class="hero" id="home">
+    <div>
+      <div class="badge"><span class="dot"></span> OPEN TO ENTRY-LEVEL SOC ROLES</div>
+      <h1>Anjali <span class="accent">Thakur</span></h1>
+      <div class="typed-wrap"><span class="prefix">&gt; </span><span id="typed"></span><span class="blink">▌</span></div>
+      <p class="lead">
+        Cybersecurity graduate focused on <strong style="color:var(--text)">security monitoring, vulnerability
+        assessment</strong> and <strong style="color:var(--text)">defensive security</strong>. Hands-on with
+        Microsoft Sentinel, XDR and Burp Suite — seeking an entry-level SOC Analyst role.
+      </p>
+      <div class="hero-actions">
+        <a class="btn solid" href="#projects">View Projects</a>
+        <a class="btn" href="resume.pdf" download>Download Resume</a>
+      </div>
+      <div class="quickfacts">
+        <div class="qf">LOCATION<b>Patiala, Punjab, India</b></div>
+        <div class="qf">EDUCATION<b>B.Tech CSE · M.Tech (pursuing)</b></div>
+        <div class="qf">FOCUS<b>SOC · Blue Team</b></div>
+      </div>
+    </div>
+
+    <div class="terminal">
+      <div class="term-bar">
+        <span class="t-dot r"></span><span class="t-dot y"></span><span class="t-dot g"></span>
+        <span class="term-title">anjali@portfolio: ~</span>
+      </div>
+      <div class="term-body"><span class="p">$</span> whoami
+<span class="s">anjali_thakur</span>
+
+<span class="p">$</span> cat profile.json
+{
+  <span class="k">"role"</span>: <span class="s">"Aspiring SOC Analyst"</span>,
+  <span class="k">"focus"</span>: <span class="s">"Security Monitoring &amp; Detection"</span>,
+  <span class="k">"tools"</span>: [<span class="s">"Microsoft Sentinel"</span>, <span class="s">"XDR"</span>, <span class="s">"Burp Suite"</span>, <span class="s">"Kali Linux"</span>],
+  <span class="k">"status"</span>: <span class="s">"hiring — ping me"</span>
+}
+
+<span class="p">$</span> <span class="blink">▌</span></div>
+    </div>
+  </section>
+
+  <!-- ABOUT -->
+  <section id="about">
+    <div class="section-head">
+      <div class="section-tag">01 · whoami</div>
+      <h2 class="section-title"><span class="hash">#</span> About Me</h2>
+    </div>
+    <div class="about-grid">
+      <div class="about-text">
+        <p>
+          Hi, I'm <strong>Anjali</strong> — a cybersecurity graduate from <strong>Punjabi University, Patiala</strong>
+          with a B.Tech in Computer Science &amp; Engineering (CGPA 8.07/10), currently pursuing an M.Tech.
+        </p>
+        <p>
+          I completed a <strong>Cybersecurity Internship at CyberMSI</strong>, working hands-on with
+          <strong>Microsoft Sentinel</strong> and <strong>Microsoft Defender XDR</strong> for security monitoring and
+          threat identification. I'm comfortable with vulnerability assessment, web application security testing,
+          Kali Linux, Burp Suite, networking and TLS/SSL.
+        </p>
+        <p>
+          I'm passionate about the <strong>defensive side</strong> of security — monitoring, detection and incident
+          response — and I'm actively building hands-on experience to launch my career as a SOC Analyst.
+        </p>
+      </div>
+      <div class="fact-list">
+        <div class="fact">
+          <span class="ico">🎯</span>
+          <span>Target role<b>SOC Analyst / Cybersecurity Analyst</b></span>
+        </div>
+        <div class="fact">
+          <span class="ico">💼</span>
+          <span>Experience<b>CyberMSI — Security Intern</b></span>
+        </div>
+        <div class="fact">
+          <span class="ico">🎓</span>
+          <span>Education<b>B.Tech CSE · M.Tech (2027)</b></span>
+        </div>
+        <div class="fact">
+          <span class="ico">📍</span>
+          <span>Location<b>Patiala, Punjab, India</b></span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- SKILLS -->
+  <section id="skills">
+    <div class="section-head">
+      <div class="section-tag">02 · toolbox</div>
+      <h2 class="section-title"><span class="hash">#</span> Skills</h2>
+    </div>
+    <div class="skills-grid">
+      <div class="card skill-card">
+        <h3><span class="ico">🛡️</span> Security Monitoring</h3>
+        <div class="tags">
+          <span class="tag">Microsoft Sentinel</span>
+          <span class="tag">Microsoft Defender XDR</span>
+          <span class="tag">Threat Identification</span>
+          <span class="tag">SIEM</span>
+        </div>
+      </div>
+      <div class="card skill-card">
+        <h3><span class="ico">🔍</span> Security Assessment</h3>
+        <div class="tags">
+          <span class="tag">Web App Pentesting</span>
+          <span class="tag">Vulnerability Assessment</span>
+          <span class="tag">Burp Suite</span>
+        </div>
+      </div>
+      <div class="card skill-card">
+        <h3><span class="ico">🐧</span> Operating Systems</h3>
+        <div class="tags">
+          <span class="tag">Kali Linux</span>
+          <span class="tag">Linux</span>
+          <span class="tag">OS Security</span>
+        </div>
+      </div>
+      <div class="card skill-card">
+        <h3><span class="ico">🌐</span> Networking</h3>
+        <div class="tags">
+          <span class="tag">Computer Networking</span>
+          <span class="tag">TLS / SSL</span>
+        </div>
+      </div>
+      <div class="card skill-card">
+        <h3><span class="ico">🐍</span> Programming &amp; Applied Security</h3>
+        <div class="tags">
+          <span class="tag">Python (foundational)</span>
+          <span class="tag">RSA Encryption</span>
+          <span class="tag">Steganography</span>
+        </div>
+      </div>
+      <div class="card skill-card">
+        <h3><span class="ico">📋</span> Professional</h3>
+        <div class="tags">
+          <span class="tag">Technical Reporting</span>
+          <span class="tag">Presentations</span>
+          <span class="tag">Troubleshooting</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- EXPERIENCE -->
+  <section id="experience">
+    <div class="section-head">
+      <div class="section-tag">03 · history</div>
+      <h2 class="section-title"><span class="hash">#</span> Experience</h2>
+    </div>
+    <div class="timeline">
+      <div class="tl-item">
+        <div class="role">Cybersecurity Intern</div>
+        <div class="org">CyberMSI · Remote</div>
+        <div class="when">May 2025 — Jun 2025</div>
+        <ul>
+          <li>Worked with <strong style="color:var(--text)">Microsoft Sentinel and XDR</strong> to monitor security activity and support threat identification.</li>
+          <li>Assisted with <strong style="color:var(--text)">vulnerability assessments</strong> and documented findings to support security reporting and remediation.</li>
+          <li>Gained hands-on exposure to security monitoring workflows, threat analysis, and cybersecurity reporting.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- PROJECTS -->
+  <section id="projects">
+    <div class="section-head">
+      <div class="section-tag">04 · lab work</div>
+      <h2 class="section-title"><span class="hash">#</span> Projects</h2>
+    </div>
+    <div class="proj-grid">
+      <div class="card proj">
+        <div class="top"><span class="ico">🕸️</span><h3>Web App Security Assessment</h3></div>
+        <div class="kind">Authorized Lab · WAPT</div>
+        <p>Conducted structured security testing of web applications to identify vulnerabilities using penetration-testing concepts. Documented observations and recommended controls to improve application protection.</p>
+        <div class="tags"><span class="tag">Web Security</span><span class="tag">Pentesting</span><span class="tag">Reporting</span></div>
+      </div>
+      <div class="card proj">
+        <div class="top"><span class="ico">📡</span><h3>Wireless Security Assessment</h3></div>
+        <div class="kind">Controlled Lab</div>
+        <p>Captured and analyzed Wi-Fi handshakes in a controlled lab to understand wireless authentication and password-security risks. Reviewed defenses like stronger passphrases, WPA3 adoption and network monitoring.</p>
+        <div class="tags"><span class="tag">Wi-Fi</span><span class="tag">WPA3</span><span class="tag">Monitoring</span></div>
+      </div>
+      <div class="card proj">
+        <div class="top"><span class="ico">🔐</span><h3>RSA Encryption &amp; Steganography</h3></div>
+        <div class="kind">Academic Project</div>
+        <p>Applied RSA public-key cryptography to secure messages and explored steganography for hiding information in digital media — combining encryption and concealment for confidential communication.</p>
+        <div class="tags"><span class="tag">Cryptography</span><span class="tag">Python</span><span class="tag">Steganography</span></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- LEARNING -->
+  <section id="learning">
+    <div class="section-head">
+      <div class="section-tag">05 · in progress</div>
+      <h2 class="section-title"><span class="hash">#</span> Currently Learning</h2>
+    </div>
+    <div class="learn-grid">
+      <div class="card learn-card">
+        <div class="learn-top">
+          <span class="ico">🛡️</span>
+          <div>
+            <h3>TryHackMe — SOC Level 1 Path</h3>
+            <div class="kind">In Progress</div>
+          </div>
+        </div>
+        <p>Hands-on defensive security training: SIEM fundamentals, log analysis, phishing email analysis, incident response and threat-hunting basics — building the exact skills used in a SOC.</p>
+        <div class="progress-label">In Progress</div>
+        <div class="progress-track"><div class="progress-fill"></div></div>
+        <a class="learn-link" href="https://tryhackme.com/p/anjalithakur0288" target="_blank" rel="noopener">View my TryHackMe profile →</a>
+      </div>
+      <div class="card learn-card">
+        <div class="learn-top">
+          <span class="ico">🎓</span>
+          <div>
+            <h3>Google Cybersecurity Professional Certificate</h3>
+            <div class="kind">In Progress · Coursera</div>
+          </div>
+        </div>
+        <p>Google's job-ready cybersecurity program covering SIEM tools (Splunk, Chronicle), network security, Linux, Python, and SOC analyst fundamentals for an entry-level security role.</p>
+        <div class="progress-label">In Progress</div>
+        <div class="progress-track"><div class="progress-fill"></div></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CERTIFICATIONS -->
+  <section id="certifications">
+    <div class="section-head">
+      <div class="section-tag">06 · credentials</div>
+      <h2 class="section-title"><span class="hash">#</span> Certifications &amp; Training</h2>
+    </div>
+    <div class="certs">
+      <div class="cert"><span class="ico">🛡️</span><div><b>TryHackMe — SOC Level 1 Path</b><span class="issuer">TryHackMe</span><div class="date"><span class="status">IN PROGRESS</span></div></div></div>
+      <div class="cert"><span class="ico">🎓</span><div><b>Google Cybersecurity Professional Certificate</b><span class="issuer">Google · Coursera</span><div class="date"><span class="status">IN PROGRESS</span></div></div></div>
+      <div class="cert"><span class="ico">🏅</span><div><b>Cybersecurity Internship Certificate</b><span class="issuer">CyberMSI — XDR &amp; Microsoft Sentinel</span><div class="date">Jun 2025</div></div></div>
+      <div class="cert"><span class="ico">🎓</span><div><b>Ethical Hacking</b><span class="issuer">LearnTube</span><div class="date">Mar 2025</div></div></div>
+      <div class="cert"><span class="ico">🎓</span><div><b>Cybersecurity</b><span class="issuer">ThinkNEXT Technologies Pvt. Ltd.</span><div class="date">May 2024</div></div></div>
+      <div class="cert"><span class="ico">☁️</span><div><b>Cloud Computing with AWS Bootcamp</b><span class="issuer">DevTown</span><div class="date">Aug 2023</div></div></div>
+      <div class="cert"><span class="ico">🐍</span><div><b>Python From A to Z Bootcamp</b><span class="issuer">DevTown</span><div class="date">Aug 2023</div></div></div>
+      <div class="cert"><span class="ico">🎓</span><div><b>Cybersecurity</b><span class="issuer">Academor</span><div class="date">Jul 2023</div></div></div>
+    </div>
+  </section>
+
+  <!-- CONTACT -->
+  <section id="contact">
+    <div class="section-head">
+      <div class="section-tag">07 · connect</div>
+      <h2 class="section-title"><span class="hash">#</span> Contact</h2>
+    </div>
+    <div class="contact-grid">
+      <div class="contact-card">
+        <span class="ico">✉️</span>
+        <div><div class="label">Email</div><div class="value"><a href="mailto:anjalithakur0288@gmail.com">anjalithakur0288@gmail.com</a></div></div>
+      </div>
+      <div class="contact-card">
+        <span class="ico">💼</span>
+        <div><div class="label">LinkedIn</div><div class="value"><a href="https://www.linkedin.com/in/anjali-602161266" target="_blank" rel="noopener">linkedin.com/in/anjali-602161266</a></div></div>
+      </div>
+      <div class="contact-card">
+        <span class="ico">🛡️</span>
+        <div><div class="label">TryHackMe</div><div class="value"><a href="https://tryhackme.com/p/anjalithakur0288" target="_blank" rel="noopener">tryhackme.com/p/anjalithakur0288</a></div></div>
+      </div>
+      <div class="contact-card">
+        <span class="ico">📱</span>
+        <div><div class="label">Phone</div><div class="value"><a href="tel:+919877302146">+91 98773 02146</a></div></div>
+      </div>
+      <div class="cta-panel">
+        <h3>Looking for a junior SOC Analyst?</h3>
+        <p>I'm eager to learn, hands-on with Sentinel/XDR, and ready to contribute from day one. Let's talk!</p>
+        <a class="btn solid" href="mailto:anjalithakur0288@gmail.com">Hire Me →</a>
+        <a class="btn" href="resume.pdf" download>Resume ↓</a>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer>
+  <span class="green">$</span> built by <span class="green">anjali_thakur</span> · SOC Analyst portfolio · deploy free on GitHub Pages
+</footer>
+
+<script>
+  // typing effect
+  const roles = ["SOC Analyst", "Security Monitoring", "Vulnerability Assessment", "Cybersecurity Analyst"];
+  let roleIdx = 0, charIdx = 0, deleting = false;
+  const typed = document.getElementById('typed');
+  function type(){
+    const current = roles[roleIdx];
+    if(!deleting){
+      charIdx++;
+      typed.textContent = current.slice(0, charIdx);
+      if(charIdx === current.length){ deleting = true; setTimeout(type, 1700); return; }
+      setTimeout(type, 75);
+    } else {
+      charIdx--;
+      typed.textContent = current.slice(0, charIdx);
+      if(charIdx === 0){ deleting = false; roleIdx = (roleIdx + 1) % roles.length; setTimeout(type, 400); return; }
+      setTimeout(type, 40);
+    }
+  }
+  type();
+
+  // mobile nav
+  const toggle = document.getElementById('navToggle');
+  const menu = document.getElementById('navMenu');
+  toggle.addEventListener('click', () => menu.classList.toggle('open'));
+  menu.querySelectorAll('a').forEach(a => a.addEventListener('click', () => menu.classList.remove('open')));
+
+  // reveal on scroll
+  const io = new IntersectionObserver(entries => {
+    entries.forEach(e => { if(e.isIntersecting){ e.target.classList.add('visible'); io.unobserve(e.target); } });
+  }, { threshold: 0.12 });
+  document.querySelectorAll('.card, .cert, .fact, .tl-item, .contact-card, .section-head').forEach(el => {
+    el.classList.add('reveal'); io.observe(el);
+  });
+</script>
+</body>
+</html>
